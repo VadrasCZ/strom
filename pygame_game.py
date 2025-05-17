@@ -2,6 +2,7 @@ import turtle as t
 
 t.colormode(255)  # Allow RGB values from 0 to 255
 
+# Funkce vykresli parez
 def create_parez():
     t.fillcolor((139, 69, 19))  # A brownish color for the "parez" (stump)
     t.begin_fill()
@@ -11,6 +12,7 @@ def create_parez():
         t.right(90)
     t.end_fill()  # Called after the shape is completed
 
+# Funkce vykresli listy
 def create_listy():
     t.fillcolor((69, 140, 3))
     t.begin_fill()
