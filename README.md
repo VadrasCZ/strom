@@ -1,17 +1,6 @@
-# Nadpis
-Vykreslím stromeček pomocí pythonu a turtle knihovny.
+# Strom
+Vykreslím 5 stromečků pomocí pythonu a turtle knihovny používáním funkcí.
 
-## Podnadpis
-fdsafdsa
-fdas
-fdas
-fdas
+##Jak jsem to udělal...
 
-
-fdasfdsa
-
-
-
-
-
-_podtrzeny_
+Vytvořil jsem funkci jménem "create_strom". Funkce "create_strom" vytvoří strom na zadaných souřadnicích dole. Pařez(Neboli dolní část stromu) má 90 pixelů na 90 pixelů. Listy (Neboli horní část stromu) má 180 na 325 pixelů.
